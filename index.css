@@ -1,0 +1,24 @@
+body {
+    background-image: url('https://www.patternpictures.com/wp-content/uploads/Kristal-subtle-glass-white-background-pattern-patternpictures-0220.png');
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+#users {
+    border: 5px solid  rgba(60, 60, 60, 0.547);
+    margin: 20px;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: left;
+}
+
+#users:hover {
+    margin: 5px;
+}
+
+#pfp {
+    display: flex;
+    width: 100px;
+    border-radius: 50%
+}
